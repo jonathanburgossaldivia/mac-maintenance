@@ -23,7 +23,7 @@ beta ()
 
 gamma ()
 {
-  echo -ne  "  Deleting caches from system and logs\r"
+  echo -ne  "  Deleting caches and logs from system\r"
   sudo rm -rf ~/Library/Caches/* 2> /dev/null
   sudo rm -rf /Library/Caches/* 2> /dev/null
   sudo rm -rf /System/Library/Caches/* 2> /dev/null
