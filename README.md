@@ -1,4 +1,4 @@
-# Project Title
+# mac-maintenance
 
 Shell script for the most complete maintenance of macOS.
 
@@ -8,7 +8,7 @@ Shell script for the most complete maintenance of macOS.
 
 ## How to use
 
-1. Drag and Drop to Terminal app.
+- Drag and Drop to Terminal app.
 
 ### Functions
 
